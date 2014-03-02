@@ -1,0 +1,9 @@
+[submodule "sand"]
+    path = deps/sand
+    url = https://github.com/r-lyeh/sand
+[submodule "medea"]
+    path = deps/medea
+    url = https://github.com/r-lyeh/medea
+[submodule "imgui"]
+    path = deps/imgui
+    url = https://github.com/r-lyeh/imgui
