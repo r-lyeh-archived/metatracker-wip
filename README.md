@@ -20,7 +20,7 @@ license
 -------
 
 ```
-The MIT License (MIT)
+The BOOST license (MIT)
 
 Copyright (c) 2014 r-lyeh
 
