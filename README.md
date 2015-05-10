@@ -20,7 +20,7 @@ license
 -------
 
 ```
-The BOOST license (MIT)
+The zlib/libpng license (MIT)
 
 Copyright (c) 2014 r-lyeh
 
